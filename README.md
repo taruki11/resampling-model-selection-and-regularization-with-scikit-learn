@@ -18,8 +18,8 @@ python scaffold.py
 - [x] **6.** bootstrap_coefficients
 - [x] **7.** stepwise_path
 - [x] **8.** score_path
-- [ ] **9.** one_se_rule
-- [ ] **10.** ridge_path
+- [x] **9.** one_se_rule
+- [x] **10.** ridge_path
 - [ ] **11.** cv_curve
 - [ ] **12.** lasso_path
 - [ ] **13.** pcr_model
